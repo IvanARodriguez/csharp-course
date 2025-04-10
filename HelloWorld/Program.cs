@@ -15,3 +15,7 @@ Console.WriteLine('q');
 
 // Integer - int
 Console.WriteLine(123);
+
+//  Decimal | Floats | Double
+Console.WriteLine(0.25F); // 6 - 9 digits
+Console.WriteLine(2.635); //Default Double 15-17 digits
